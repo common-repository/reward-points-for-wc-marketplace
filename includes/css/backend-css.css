@@ -1,0 +1,20 @@
+table.dataTable:not(.wcmp-widget-dt) tfoot th, table.dataTable:not(.wcmp-widget-dt) thead th{
+font-size: 14px;
+background-color: #d3dbe2;
+color: #000;
+border-right: solid 1px #b4c1cc !important;
+font-weight: 600;
+border-bottom: solid 1px #b4c1cc !important;
+border-top: 0;
+}
+table.dataTable:not(.wcmp-widget-dt) tbody td{
+border-right: solid 1px #b4c1cc !important;
+border-bottom: solid 1px #b4c1cc !important;
+}
+.table-bordered{
+    border: 1px solid #b4c1cc;
+    margin: 15px 0 !important;
+}
+#customer_reward_points_length, #vendor_offer_points_length{
+    margin-bottom: 15px;
+}
